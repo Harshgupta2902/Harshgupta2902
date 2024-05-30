@@ -22,6 +22,9 @@
 </div>
 
 ###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harshgupta2902&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ###
 
 <div align="left">
