@@ -23,7 +23,7 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harshgupta2902&theme=onedark&row=1&column=7)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Harshgupta2902&theme=onedark&row=1&column=7)
 
 ###
 
