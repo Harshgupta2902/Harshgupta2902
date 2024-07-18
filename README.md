@@ -11,7 +11,7 @@
 
 
 
-<h2 align="left">Hi 👋! My name is Harsh and I'm a Full-Stack Developer, from Developer Community</h2>
+<h2 align="center">Hi 👋! My name is Harsh <br/>and I'm a Full-Stack Developer, from Developer Community</h2>
 
 ###
 
