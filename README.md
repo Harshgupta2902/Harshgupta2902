@@ -2,13 +2,13 @@
 
 
 <div id="header" align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Harshgupta2902&theme=onedark&row=1&column=7)
   
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2toYXlhM2twaXc3enVqNzhzNXYzaWNlYmtxZTFndWE2a2IyM2swMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 </div>
 
@@ -24,9 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshgupta2902&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Harshgupta2902&theme=onedark&row=1&column=7)
 
 ###
 
