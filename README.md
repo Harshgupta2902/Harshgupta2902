@@ -9,22 +9,15 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2toYXlhM2twaXc3enVqNzhzNXYzaWNlYmtxZTFndWE2a2IyM2swMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-
 </div>
-
-
 
 <h2 align="center">Hi 👋! My name is Harsh <br/>and I'm a Full-Stack Developer, from Developer Community</h2>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=harshgupta2902&show_icons=true&locale=en&theme=dracula" alt="harshgupta2902" />
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgupta2902&theme=dracula" alt="harshgupta2902" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshgupta2902&show_icons=true&locale=en&layout=compact&theme=dracula" alt="harshgupta2902" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshgupta2902&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://streak-stats.demolab.com?user=Harshgupta2902&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshgupta2902&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
+<br>
 
 ###
 
@@ -68,7 +61,6 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgupta2902&label=Profile%20views&color=0e75b6&style=flat" alt="harshgupta2902" /> </p>
 
 
 ###
@@ -78,3 +70,6 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgupta2902&label=Profile%20views&color=0e75b6&style=flat" alt="harshgupta2902" /> </p>
